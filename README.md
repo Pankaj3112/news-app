@@ -54,7 +54,7 @@ Thank you for your understanding!
 
 4. **Run the App:**
    ```bash
-   npm start
+   npm run dev
    ```
 
 - Open the app in your web browser at http://localhost:5173
